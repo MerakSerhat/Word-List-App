@@ -1,0 +1,133 @@
+<main>
+	<is_starry>false</is_starry>
+	<word>
+		<name>go</name>
+		<star>false</star>
+		<div>
+			<title>go</title>
+			<eng-def>to move or travel somewhere</eng-def>
+			<tr-def>gitmek</tr-def>
+			<examples>
+				<ex>I'd love to go to America.</ex>
+				<ex>We went into the house.</ex>
+				<ex>Are you going by train?</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to move or travel somewhere in order to do something</eng-def>
+			<tr-def>bir amaç için gitmek</tr-def>
+			<examples>
+				<ex>Let's go for a walk.</ex>
+				<ex>We're going camping tomorrow.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to disappear or no longer exist</eng-def>
+			<tr-def>gözden kaybolmak, yok olmak; yitmek</tr-def>
+			<examples>
+				<ex>When I turned round the man had gone.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go badly/well, etc</title>
+			<eng-def>to develop in a particular way</eng-def>
+			<tr-def>iyi/kötü gitmek</tr-def>
+			<examples>
+				<ex>My exams went really badly.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to continue to be in a particular state</eng-def>
+			<tr-def>belli bir düzende/konumda devam etmek</tr-def>
+			<examples>
+				<ex>We won't let anyone go hungry.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to work correctly</eng-def>
+			<tr-def>düzgün/hatasýz çalýþmak</tr-def>
+			<examples>
+				<ex>Did you manage to get the car going?</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to stop working correctly</eng-def>
+			<tr-def>düzgün çalýþmamak, arýza yapmak, iyi gitmemek</tr-def>
+			<examples>
+				<ex>Her hearing is going, so speak loudly.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>If two things go, they match each other.</eng-def>
+			<tr-def>uymak, uyuþmak, birbiriyle iyi gitmek</tr-def>
+			<examples>
+				<ex>Any colour goes with jeans.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>If time goes, it passes.</eng-def>
+			<tr-def>(zaman) geçmek, bitmek, yok olmak</tr-def>
+			<examples>
+				<ex>The day went very quickly.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to have a particular tune or words</eng-def>
+			<tr-def>(þarký) belli bir melodisi/ezgisi ve güftesi olmak</tr-def>
+			<examples>
+				<ex>I can't remember how it goes.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>to make a particular sound or movement</eng-def>
+			<tr-def>belli bir ses çýkarmak veya hareket yapmak</tr-def>
+			<examples>
+				<ex>My dog goes like this when he wants some food.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>an attempt to do something</eng-def>
+			<tr-def>teþebbüs, kalkýþma, giriþme</tr-def>
+			<examples>
+				<ex>I had a go at catching a fish.</ex>
+				<ex>
+					If you think you might like skiing, why don't you give it a go (= try to do it)?
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>go</title>
+			<eng-def>someone's turn to do something</eng-def>
+			<tr-def>sýra, sefer, keþik</tr-def>
+			<examples>
+				<ex>Throw the dice Jane, it's your go.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>have a go at sb</title>
+			<eng-def>to criticize someone angrily</eng-def>
+			<tr-def>kýzgýnca eleþtirmek, laf etmek, tenkit etmek</tr-def>
+			<examples>
+				<ex>My mother's always having a go at me about my hair.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>make a go of sth</title>
+			<eng-def>to try to make something succeed, usually by working hard</eng-def>
+			<tr-def>zoru baþarmak, baþarýlý kýlmaya çalýþmak</tr-def>
+			<examples>
+				<ex>They're determined to make a go of their business.</ex>
+			</examples>
+		</div>
+	</word>
+</main>

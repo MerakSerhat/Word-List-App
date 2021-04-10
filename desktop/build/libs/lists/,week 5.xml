@@ -1,0 +1,1771 @@
+<main>
+	<is_starry>false</is_starry>
+	<word>
+		<name>jail</name>
+		<star>false</star>
+		<div>
+			<title>jail</title>
+			<eng-def>a place where criminals are kept as a punishment</eng-def>
+			<tr-def>hapishane, cezaevi</tr-def>
+			<examples>
+				<ex>He ended up in jail.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>jail</title>
+			<eng-def>to put someone in a jail</eng-def>
+			<tr-def>hapsetmek, cezaevine atmak</tr-def>
+			<examples>
+				<ex>He was jailed for two years.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>grind</name>
+		<star>true</star>
+		<div>
+			<title>grind</title>
+			<eng-def>
+				to keep rubbing something between two rough, hard surfaces until it becomes a powder
+			</eng-def>
+			<tr-def>öðütmek, unufak etmek</tr-def>
+			<examples>
+				<ex>to grind coffee</ex>
+			</examples>
+		</div>
+		<div>
+			<title>grind</title>
+			<eng-def>to rub a blade against a hard surface to make it sharp</eng-def>
+			<tr-def>bilemek, keskinleþtirmek</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>grind your teeth</title>
+			<eng-def>to rub your teeth together, making an unpleasant sound</eng-def>
+			<tr-def>diþlerini gýcýrdatmak, gýcýrtý sesi çýkarmak</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>grind</title>
+			<eng-def>
+				work or effort that is boring and unpleasant and makes you tired because it does not change
+			</eng-def>
+			<tr-def>beyhude çaba/çalýþma; sýkýcý ve zor iþ, ömür törpüsü</tr-def>
+			<examples>
+				<ex>the daily grind</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>bother</name>
+		<star>true</star>
+		<div>
+			<title>bother</title>
+			<eng-def>
+				to annoy someone by trying to get their attention when they do not want to see you or talk to you
+			</eng-def>
+			<tr-def>taciz etmek, canýný sýkmak, uðraþmak</tr-def>
+			<examples>
+				<ex>Don't bother your father when he's working.</ex>
+				<ex>Sorry to bother you, but could you spare any change?</ex>
+			</examples>
+		</div>
+		<div>
+			<title>bother</title>
+			<eng-def>to make someone feel worried or upset</eng-def>
+			<tr-def>birini üzmek, endiþeye sevketmek</tr-def>
+			<examples>
+				<ex>Living on my own doesn't bother me at all.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>bother</title>
+			<eng-def>to make the effort to do something</eng-def>
+			<tr-def>uðraþmak, didinmek, çaba sarfetmek</tr-def>
+			<examples>
+				<ex>Don't bother making the bed - I'll do it later.</ex>
+				<ex>He didn't even bother to call.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>can't be bothered</title>
+			<eng-def>
+				If you can't be bothered to do something, you are too lazy or tired to do it.
+			</eng-def>
+			<tr-def>hiç iþim yoktu sanki, bana ne</tr-def>
+			<examples>
+				<ex>I can't be bothered to iron my clothes.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>not bothered</title>
+			<eng-def>
+				If you are not bothered about something, it is not important to you and does not worry you.
+			</eng-def>
+			<tr-def>zahmet etme, kendini yorma, boþver, aldýrma, tasalanma</tr-def>
+			<examples>
+				<ex>"Do you want tea or coffee?" "Either, I'm not bothered."</ex>
+				<ex>I'm not bothered whether I win or lose.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>bother</title>
+			<eng-def>trouble or problems</eng-def>
+			<tr-def>sorun, dert, tasa, problem</tr-def>
+			<examples>
+				<ex>
+					"Are you sure you don't mind taking me?" "No, it's no bother, really!"
+				</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>bias</name>
+		<star>false</star>
+		<div>
+			<title>bias</title>
+			<eng-def>
+				a situation in which you support or oppose someone or something in an unfair way because you are influenced by your personal opinions
+			</eng-def>
+			<tr-def>önyargý</tr-def>
+			<examples>
+				<ex>a bias towards/against private education</ex>
+				<ex>
+					The news channel has been accused of bias in favour of the government.
+				</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>excess</name>
+		<star>true</star>
+		<div>
+			<title>excess</title>
+			<eng-def>more of something than is usual or needed</eng-def>
+			<tr-def>aþýrýlýk, bolluk</tr-def>
+			<examples>
+				<ex>
+					An excess of oil on the markets has caused prices to fall sharply.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>in excess of sth</title>
+			<eng-def>more than a particular amount or level</eng-def>
+			<tr-def>...den/dan daha fazla</tr-def>
+			<examples>
+				<ex>He earns in excess of £60,000 a year.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>do sth to excess</title>
+			<eng-def>to do something too much</eng-def>
+			<tr-def>bir þeyi ifrata/aþýrýya kaçarak yapmak, aþýrý derecede yapmak</tr-def>
+			<examples>
+				<ex>He occasionally has a beer, but he never drinks to excess.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>excess</title>
+			<eng-def>more than is usual or allowed</eng-def>
+			<tr-def>fazla, fazladan, ek</tr-def>
+			<examples>
+				<ex>We had to pay $100 for excess baggage.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>mining</name>
+		<star>false</star>
+		<div>
+			<title>mining</title>
+			<eng-def>
+				the industrial process of digging coal or other minerals out of the ground
+			</eng-def>
+			<tr-def>madencilik</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>glue</name>
+		<star>false</star>
+		<div>
+			<title>glue</title>
+			<eng-def>a substance used to stick things together</eng-def>
+			<tr-def>tutkal, zamk, yapýþtýrýcý</tr-def>
+			<examples>
+				<ex>Put a bit of glue on both edges and hold them together.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>glue</title>
+			<eng-def>to stick something to something else with glue</eng-def>
+			<tr-def>yapýþtýrmak, tutturmak, zamklamak</tr-def>
+			<examples>
+				<ex>Do you think you can glue this vase back together?</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>drawer</name>
+		<star>true</star>
+		<div>
+			<title>drawer</title>
+			<eng-def>
+				a container like a box without a lid that is part of a piece of furniture and that slides in and out
+			</eng-def>
+			<tr-def>çekmece</tr-def>
+			<examples>
+				<ex>She opened the drawer and took out a knife.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>modest</name>
+		<star>false</star>
+		<div>
+			<title>modest</title>
+			<eng-def>not large in size or amount, or not expensive</eng-def>
+			<tr-def>az, cüz'i, mütevazý</tr-def>
+			<examples>
+				<ex>a modest amount of money</ex>
+				<ex>Their house is quite modest in size.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>modest</title>
+			<eng-def>
+				If you are modest, you do not talk in a proud way about your skills or successes.
+			</eng-def>
+			<tr-def>alçak gönüllü, mütevazý</tr-def>
+			<examples>
+				<ex>He's very modest about his achievements.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>dove</name>
+		<star>true</star>
+		<div>
+			<title>dove</title>
+			<eng-def>a white bird, sometimes used as a symbol of peace</eng-def>
+			<tr-def>güvercin</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>dove</title>
+			<eng-def>past tense of dive</eng-def>
+			<tr-def>dalmak' fiilinin ikinci hali</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>tempt</name>
+		<star>true</star>
+		<div>
+			<title>tempt</title>
+			<eng-def>
+				to make someone want to have or do something, especially something that they do not need or something that is wrong
+			</eng-def>
+			<tr-def>özendirmek, teþvik etmek, imrendirmek</tr-def>
+			<examples>
+				<ex>She's trying to tempt me to go shopping with her.</ex>
+				<ex>I'm tempted not to go to my next class.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>expectancy</name>
+		<star>true</star>
+		<div>
+			<title>expectancy</title>
+			<eng-def>
+				the feeling that something pleasant or exciting is going to happen
+			</eng-def>
+			<tr-def>beklenti, umut</tr-def>
+			<examples>
+				<ex>An air of expectancy filled the room.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>foster</name>
+		<star>true</star>
+		<div>
+			<title>foster</title>
+			<eng-def>to encourage a particular feeling, situation, or idea to develop</eng-def>
+			<tr-def>(fikir, durum, his) geliþmesine yardýmcý olmak</tr-def>
+			<examples>
+				<ex>
+					The growth of the Internet could foster economic development worldwide.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>foster</title>
+			<eng-def>
+				to look after a child as part of your family for a time, without becoming their legal parent
+			</eng-def>
+			<tr-def>(çocuðu) öz babasý gibi beslemek, büyütmek</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>foster home/mother/parent, etc</title>
+			<eng-def>
+				the home where a child who is fostered lives, or the person or people who foster a child
+			</eng-def>
+			<tr-def>yetimhane, evlatlýk babasý/annesi</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>foster child/daughter/son, etc</title>
+			<eng-def>a child who is fostered</eng-def>
+			<tr-def>evlatlýk çocuk; evlatlýk kýz evlat/erkek evlat</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>inspect</name>
+		<star>true</star>
+		<div>
+			<title>inspect</title>
+			<eng-def>
+				to officially visit a building or organization, in order to check that everything is correct and legal
+			</eng-def>
+			<tr-def>denetlemek, teftiþ etmek, araþtýrmak</tr-def>
+			<examples>
+				<ex>Schools will be inspected regularly to maintain standards.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>inspect</title>
+			<eng-def>to look at something very carefully</eng-def>
+			<tr-def>kontrol etmek, yoklamak, gözden geçirmek</tr-def>
+			<examples>
+				<ex>Clara inspected her make-up in the mirror.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>rigid</name>
+		<star>true</star>
+		<div>
+			<title>rigid</title>
+			<eng-def>not able to change or be changed easily</eng-def>
+			<tr-def>sert, katý</tr-def>
+			<examples>
+				<ex>I found the rules a little too rigid.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>rigid</title>
+			<eng-def>not able to bend or move easily</eng-def>
+			<tr-def>eðilmez, bükülmez, sert, katý</tr-def>
+			<examples>
+				<ex>a rigid structure</ex>
+				<ex>She sat rigid with fear.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>settle</name>
+		<star>true</star>
+		<div>
+			<title>settle</title>
+			<eng-def>
+				If you settle an argument, you solve the problem and stop arguing.
+			</eng-def>
+			<tr-def>halletmek, çözmek, çözüm yolu bulmak, halletmek, karara baðlamak</tr-def>
+			<examples>
+				<ex>to settle a dispute</ex>
+			</examples>
+		</div>
+		<div>
+			<title>settle</title>
+			<eng-def>
+				to start living in a place where you are going to live for a long time
+			</eng-def>
+			<tr-def>yerleþmek, yaþamaya baþlamak</tr-def>
+			<examples>
+				<ex>
+					He travelled around Europe for years before finally settling in Vienna.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>settle</title>
+			<eng-def>to decide or arrange something</eng-def>
+			<tr-def>karar vermek, düzenlemek</tr-def>
+			<examples>
+				<ex>Right, that's settled. We're going to Spain.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>settle</title>
+			<eng-def>to relax into a comfortable position</eng-def>
+			<tr-def>istirahat etmek, dinlenmek</tr-def>
+			<examples>
+				<ex>I yawned, and settled back on the sofa.</ex>
+				<ex>She settled herself into the chair opposite.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>settle</title>
+			<eng-def>If you settle a bill or a debt, you pay the money that you owe.</eng-def>
+			<tr-def>borcu/faturayý ödemek</tr-def>
+			<examples>
+				<ex>I've got some bills to settle.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>settle</title>
+			<eng-def>
+				to move down towards the ground or the bottom of something and then stay there
+			</eng-def>
+			<tr-def>oturmak, çökmek</tr-def>
+			<examples>
+				<ex>Do you think the snow will settle?</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>limb</name>
+		<star>true</star>
+		<div>
+			<title>limb</title>
+			<eng-def>a leg or an arm of a person</eng-def>
+			<tr-def>kol bacak</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>limb</title>
+			<eng-def>a large branch of a tree</eng-def>
+			<tr-def>ana dal, büyük dal, kol</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>multiply</name>
+		<star>false</star>
+		<div>
+			<title>multiply</title>
+			<eng-def>
+				to increase by a large number, or to make something increase by a large number
+			</eng-def>
+			<tr-def>art(ýr)mak, çoðal(t)mak</tr-def>
+			<examples>
+				<ex>In warm weather, germs multiply rapidly.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>multiply</title>
+			<eng-def>to add one number to itself a particular number of times</eng-def>
+			<tr-def>çarpmak, çarpma iþlemi yapmak</tr-def>
+			<examples>
+				<ex>Three multiplied by six equals eighteen.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>deer</name>
+		<star>true</star>
+		<div>
+			<title>deer</title>
+			<eng-def>
+				a large, wild animal that is sometimes hunted for food and that has antlers (= long horns) if it is male
+			</eng-def>
+			<tr-def>geyik</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>carriage</name>
+		<star>true</star>
+		<div>
+			<title>carriage</title>
+			<eng-def>one of the separate parts of a train where the passengers sit</eng-def>
+			<tr-def>vagon</tr-def>
+			<examples>
+				<ex>
+					The front carriage of the train is for first-class passengers only.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>carriage</title>
+			<eng-def>a vehicle with wheels that is pulled by a horse</eng-def>
+			<tr-def>at arabasý</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>carriage</title>
+			<eng-def>the cost of transporting goods</eng-def>
+			<tr-def>yük taþýma/nakliye bedeli/ücreti</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>evolution</name>
+		<star>true</star>
+		<div>
+			<title>evolution</title>
+			<eng-def>
+				the way in which living things gradually change and develop over millions of years
+			</eng-def>
+			<tr-def>evrim</tr-def>
+			<examples>
+				<ex>Darwin's theory of evolution</ex>
+			</examples>
+		</div>
+		<div>
+			<title>evolution</title>
+			<eng-def>a gradual process of change and development</eng-def>
+			<tr-def>geliþim, deðiþim, evrim, tekâmül</tr-def>
+			<examples>
+				<ex>the evolution of language</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>powder</name>
+		<star>false</star>
+		<div>
+			<title>powder</title>
+			<eng-def>a dry substance made of many small, loose grains</eng-def>
+			<tr-def>pudra, un</tr-def>
+			<examples>
+				<ex>curry powder</ex>
+				<ex>face powder</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>plug</name>
+		<star>false</star>
+		<div>
+			<title>plug</title>
+			<eng-def>
+				a plastic or rubber object with metal pins, used to connect electrical equipment to an electricity supply
+			</eng-def>
+			<tr-def>fiþ, elektrik fiþi</tr-def>
+			<examples>
+				<ex>I need to change the plug on my hairdryer.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>plug</title>
+			<eng-def>something you put in a hole to block it</eng-def>
+			<tr-def>tapa, týkaç, týpa</tr-def>
+			<examples>
+				<ex>a bath plug</ex>
+			</examples>
+		</div>
+		<div>
+			<title>plug</title>
+			<eng-def>
+				talking about about a new book, film, etc in public to advertise it
+			</eng-def>
+			<tr-def>
+				(kitap, film vs.) reklâm, tanýtým, tanýtým toplantýsý; bilgilendirme
+			</tr-def>
+			<examples>
+				<ex>She managed to get in a plug for her new book.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>plug a gap/hole</title>
+			<eng-def>to solve a problem by supplying something that is needed</eng-def>
+			<tr-def>
+				bir boþluðu doldurarak/gereksinimi gidererek sorunu çözmek; halletmek; bir gediði kapamak; eksiði gidermek
+			</tr-def>
+			<examples>
+				<ex>
+					The new computer system will help to plug the gap in the county's ability to collect taxes.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>plug</title>
+			<eng-def>
+				to talk about a new book, film, etc in public in order to advertise it
+			</eng-def>
+			<tr-def>reklâmýný/tanýtýmýný yapmak</tr-def>
+			<examples>
+				<ex>He was on TV, plugging his new book.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>plug</title>
+			<eng-def>to block a hole</eng-def>
+			<tr-def>týpamak, týkamak, týkaçla kapamak</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>policy</name>
+		<star>false</star>
+		<div>
+			<title>policy</title>
+			<eng-def>
+				a set of ideas or a plan of what to do in particular situations that has been agreed by a government, business, etc
+			</eng-def>
+			<tr-def>siyaset, politika, tutum, hareket tarzý</tr-def>
+			<examples>
+				<ex>foreign policy</ex>
+				<ex>It is company policy to help staff progress in their careers.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>policy</title>
+			<eng-def>
+				an agreement that you have with an insurance company (= company that pays the costs if you are injured, etc)
+			</eng-def>
+			<tr-def>poliçe, sigorta senedi</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>hook</name>
+		<star>false</star>
+		<div>
+			<title>hook</title>
+			<eng-def>
+				a curved piece of metal or plastic used for hanging something on, or a similar object used for catching fish
+			</eng-def>
+			<tr-def>çengel, kanca</tr-def>
+			<examples>
+				<ex>His coat was hanging from a hook on the door.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>off the hook</title>
+			<eng-def>
+				If a telephone is off the hook, the part you speak into is not in its correct position, so the telephone will not ring.
+			</eng-def>
+			<tr-def>
+				(telefon ahizesi) kaldýrýlmýþ, açýk, yerinden çýkmýþ, fiþi çýkmýþ
+			</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>a left/right hook</title>
+			<eng-def>a hard hit with your left/right hand</eng-def>
+			<tr-def>sað/sol elle darbe vurma</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>hook</title>
+			<eng-def>
+				to fasten something with a hook, hang something on a hook, or catch something with a hook
+			</eng-def>
+			<tr-def>çengel ile tutturmak, kancaya asmak, kanca/çengel ile yakalamak</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>be/get hooked on sth</title>
+			<eng-def>
+				to like or start to like doing something very much and want to do it all the time
+			</eng-def>
+			<tr-def>aþýrý düþkün olmak, tiryakisi olmak</tr-def>
+			<examples>
+				<ex>He's completely hooked on computer games.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>transit</name>
+		<star>false</star>
+		<div>
+			<title>transit</title>
+			<eng-def>the movement of goods or people from one place to another</eng-def>
+			<tr-def>taþýma, nakliye</tr-def>
+			<examples>
+				<ex>
+					Some things got damaged in transit (= while they were being moved).
+				</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>shelter</name>
+		<star>false</star>
+		<div>
+			<title>shelter</title>
+			<eng-def>a place that protects you from bad weather or danger</eng-def>
+			<tr-def>barýnak, sýðýnak</tr-def>
+			<examples>
+				<ex>a bomb shelter</ex>
+			</examples>
+		</div>
+		<div>
+			<title>shelter</title>
+			<eng-def>protection from bad weather or danger</eng-def>
+			<tr-def>koruma, sýðýnma</tr-def>
+			<examples>
+				<ex>We took shelter from the rain in a doorway.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>shelter from/in/under, etc sth</title>
+			<eng-def>
+				to go under a cover or inside a building to be protected from bad weather or danger
+			</eng-def>
+			<tr-def>barýnmak, sýðýnmak, korunmak</tr-def>
+			<examples>
+				<ex>They went under a tree to shelter from the rain.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>shelter</title>
+			<eng-def>to provide cover or protection for someone</eng-def>
+			<tr-def>korumak, muhafaza etmek, yataklýk etmek</tr-def>
+			<examples>
+				<ex>Many households are already sheltering refugees.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>scare</name>
+		<star>false</star>
+		<div>
+			<title>scare</title>
+			<eng-def>to frighten a person or animal</eng-def>
+			<tr-def>korkutmak</tr-def>
+			<examples>
+				<ex>Sudden, loud noises scare me.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>scare the hell/life/living daylights, etc out of sb</title>
+			<eng-def>to make someone feel very frightened</eng-def>
+			<tr-def>ödünü patlatmak/koparmak, çok korkutmak; aklýný baþýndan almak</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>scare</title>
+			<eng-def>a sudden feeling of fear or worry</eng-def>
+			<tr-def>korku, ürperti, endiþe, ürküntü</tr-def>
+			<examples>
+				<ex>The earthquake gave us a scare.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>scare</title>
+			<eng-def>a situation that worries or frightens people</eng-def>
+			<tr-def>panik, korkutucu/ürkütücü durum</tr-def>
+			<examples>
+				<ex>a food/health scare</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>humble</name>
+		<star>false</star>
+		<div>
+			<title>humble</title>
+			<eng-def>not proud or not believing that you are important</eng-def>
+			<tr-def>mütevazý, alçak gönüllü, gösteriþsiz</tr-def>
+			<examples>
+				<ex>He's very humble about his success.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>humble</title>
+			<eng-def>poor or of a low social rank</eng-def>
+			<tr-def>fakir, alt sýnýftan/düzeyde, önemsiz</tr-def>
+			<examples>
+				<ex>She rose from humble beginnings to become Prime Minister.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>humble</title>
+			<eng-def>
+				to make someone understand that they are not as important or special as they think they are
+			</eng-def>
+			<tr-def>ezmek, burnunu sürtmek</tr-def>
+			<examples>
+				<ex>She was humbled by the unexpected defeat.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>eager</name>
+		<star>false</star>
+		<div>
+			<title>eager</title>
+			<eng-def>wanting to do or have something very much</eng-def>
+			<tr-def>istekli, hevesli</tr-def>
+			<examples>
+				<ex>Sam was eager to go home and play on his computer.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>rival</name>
+		<star>false</star>
+		<div>
+			<title>rival</title>
+			<eng-def>
+				someone or something that is competing with another person or thing
+			</eng-def>
+			<tr-def>rakip, rakibe</tr-def>
+			<examples>
+				<ex>business/political rivals</ex>
+			</examples>
+		</div>
+		<div>
+			<title>rival</title>
+			<eng-def>to be good enough to compete with someone or something else</eng-def>
+			<tr-def>...ile boy ölçüþmek/yarýþmak/aþýk atmak; ...ýn/in dengi olmak</tr-def>
+			<examples>
+				<ex>Australian wine can now rival the best from France.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>hip</name>
+		<star>false</star>
+		<div>
+			<title>hip</title>
+			<eng-def>
+				one of the two parts of your body above your leg and below your waist
+			</eng-def>
+			<tr-def>kalça</tr-def>
+			<examples>
+				<ex>She stood waiting with her hands on her hips.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>hip</title>
+			<eng-def>fashionable</eng-def>
+			<tr-def>modaya uygun</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>crown</name>
+		<star>false</star>
+		<div>
+			<title>crown</title>
+			<eng-def>
+				a round object made of gold and jewels (= valuable stones) that a king or queen wears on their head
+			</eng-def>
+			<tr-def>taç</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>crown</title>
+			<eng-def>the top of a hat, head, or hill</eng-def>
+			<tr-def>tepe, zirve, üst</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>the Crown</title>
+			<eng-def>used to refer to the power or government of a king or queen</eng-def>
+			<tr-def>kraliyet, krallýk</tr-def>
+			<examples>
+				<ex>All this land belongs to the Crown.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crown</title>
+			<eng-def>an artificial top that is put on a damaged tooth</eng-def>
+			<tr-def>(diþ) kaplama</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>crown</title>
+			<eng-def>
+				to put a crown on someone's head in an official ceremony that makes them a king or queen
+			</eng-def>
+			<tr-def>taç giydirmek, taçlandýrmak, kraliçe/hükümdar yapmak</tr-def>
+			<examples>
+				<ex>Queen Elizabeth II of England was crowned in 1952.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crown</title>
+			<eng-def>to be on top of something</eng-def>
+			<tr-def>tepede/zirvede olmak</tr-def>
+			<examples>
+				<ex>A large domed ceiling crowns the main hall.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crown</title>
+			<eng-def>to be the best or most successful part of something</eng-def>
+			<tr-def>en iyi ve en baþarýlý bir bölümü olmak</tr-def>
+			<examples>
+				<ex>The book crowned his successful writing career.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>external</name>
+		<star>false</star>
+		<div>
+			<title>external</title>
+			<eng-def>relating to the outside part of something</eng-def>
+			<tr-def>harici, dýþ</tr-def>
+			<examples>
+				<ex>the external walls of the house</ex>
+				<ex>
+					The ointment is for external use only (= it must not be put inside the body).
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>external</title>
+			<eng-def>
+				coming from or relating to another country, group, or organization
+			</eng-def>
+			<tr-def>dýþarýdan/hariçten gelen, dýþarýya ait</tr-def>
+			<examples>
+				<ex>All exams are marked by an external examiner.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>split</name>
+		<star>false</star>
+		<div>
+			<title>split</title>
+			<eng-def>
+				If something splits or if you split it, it tears so that there is a long, thin hole in it.
+			</eng-def>
+			<tr-def>böl(ün)mek, parçala(n)mak, ayýrmak, ayrýlmak, yar(ýl)mak</tr-def>
+			<examples>
+				<ex>He split his trousers when he bent over.</ex>
+				<ex>Her shoes were splitting apart at the sides.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>split</title>
+			<eng-def>
+				to divide into smaller parts or groups, or to divide something into smaller parts or groups
+			</eng-def>
+			<tr-def>küçük parçalara/gruplara ayýrmak/ayrýlmak</tr-def>
+			<examples>
+				<ex>The children split up into three groups.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>split</title>
+			<eng-def>to share something by dividing it into smaller parts</eng-def>
+			<tr-def>paylaþmak, bölüþmek, üleþmek</tr-def>
+			<examples>
+				<ex>The cost of the wedding will be split between the two families.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>split</title>
+			<eng-def>
+				If a group of people splits, or something splits them, they disagree and form smaller groups.
+			</eng-def>
+			<tr-def>böl(ün)mek, ayýrmak, ayrýlmak, hipleþ(tir)mek</tr-def>
+			<examples>
+				<ex>This issue could split the Conservative Party.</ex>
+				<ex>The government was split on the issue of hunting.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>split</title>
+			<eng-def>a long, thin hole in something where it has broken apart</eng-def>
+			<tr-def>yarýk, çatlak, yýrtýk</tr-def>
+			<examples>
+				<ex>There's a split in my trousers.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>split</title>
+			<eng-def>
+				the division of a group of people into smaller groups because they disagree about something
+			</eng-def>
+			<tr-def>hizpleþme, ayrýlýk, ayrýlmak, bölünme</tr-def>
+			<examples>
+				<ex>This issue is likely to cause a major split in the party.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>split</title>
+			<eng-def>the end of a marriage or relationship</eng-def>
+			<tr-def>ayrýlýk, boþanma, bozuþma</tr-def>
+			<examples>
+				<ex>
+					Very few of their friends were surprised when they announced their split last week.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>a split second</title>
+			<eng-def>a very short period of time</eng-def>
+			<tr-def>çok kýsa bir zaman dilimi, saniyenin onda biri kadar bir zaman</tr-def>
+			<examples>
+				<ex>It was all over in a split second.</ex>
+				<ex>a split second decision</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>timeless</name>
+		<star>false</star>
+		<div>
+			<title>timeless</title>
+			<eng-def>not changing because of time or fashion</eng-def>
+			<tr-def>modasý geçmeyen, çaðlarý aþan, deðiþmeyen, sonsuz, ebedî</tr-def>
+			<examples>
+				<ex>Her clothes have a timeless quality.</ex>
+				<ex>a timeless classic</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>hay</name>
+		<star>false</star>
+		<div>
+			<title>hay</title>
+			<eng-def>dried grass for animals to eat</eng-def>
+			<tr-def>saman, kuru ot</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>outlook</name>
+		<star>false</star>
+		<div>
+			<title>outlook</title>
+			<eng-def>the likely future situation</eng-def>
+			<tr-def>muhtemel geleceði, genel gidiþatý; genel görüntüsü</tr-def>
+			<examples>
+				<ex>The outlook for the economy next year is bleak.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>outlook</title>
+			<eng-def>the way a person thinks about something</eng-def>
+			<tr-def>hayata bakýþý</tr-def>
+			<examples>
+				<ex>Despite her illness, she has a very positive outlook on life.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>scenario</name>
+		<star>false</star>
+		<div>
+			<title>scenario</title>
+			<eng-def>
+				a description of a situation, or of a situation that may develop in the future
+			</eng-def>
+			<tr-def>senaryo</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>worst-case scenario</title>
+			<eng-def>the worst situation that you can imagine</eng-def>
+			<tr-def>tahmin edilebilen en kötü durum</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>virtue</name>
+		<star>false</star>
+		<div>
+			<title>virtue</title>
+			<eng-def>an advantage or useful quality</eng-def>
+			<tr-def>üstünlük, avantaj</tr-def>
+			<examples>
+				<ex>
+					The great virtue of having a small car is that you can park it easily.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>virtue</title>
+			<eng-def>a good quality that someone has</eng-def>
+			<tr-def>erdem, fazilet</tr-def>
+			<examples>
+				<ex>Patience is not among his virtues.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>virtue</title>
+			<eng-def>behaviour that is morally good</eng-def>
+			<tr-def>meziyet, haslet, takva, dürüstlük</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>by virtue of sth</title>
+			<eng-def>because of something</eng-def>
+			<tr-def>...dan/den dolayý; ...yüzünden/nedeniyle</tr-def>
+			<examples>
+				<ex>She succeeded by virtue of hard work rather than talent.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>grain</name>
+		<star>false</star>
+		<div>
+			<title>grain</title>
+			<eng-def>a seed or seeds from types of grass that are eaten as food</eng-def>
+			<tr-def>tahýl</tr-def>
+			<examples>
+				<ex>grains of wheat/rice</ex>
+			</examples>
+		</div>
+		<div>
+			<title>grain</title>
+			<eng-def>a very small piece of something</eng-def>
+			<tr-def>tanecik, zerre</tr-def>
+			<examples>
+				<ex>a grain of sand/sugar</ex>
+			</examples>
+		</div>
+		<div>
+			<title>grain</title>
+			<eng-def>a very small amount of a quality</eng-def>
+			<tr-def>azýcýk, çok az miktar, zerrecik</tr-def>
+			<examples>
+				<ex>There isn't a grain of truth in her story.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>the grain</title>
+			<eng-def>
+				the natural direction and pattern of lines which you can see in wood or material
+			</eng-def>
+			<tr-def>(ahþap, taþ, kaya, mermer, demir vb.) damar</tr-def>
+			<examples>
+				<ex>to cut something along/against the grain</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>entitle</name>
+		<star>false</star>
+		<div>
+			<title>entitle sb to (do) sth</title>
+			<eng-def>to give someone the right to do or have something</eng-def>
+			<tr-def>
+				görevlendirmek, yetkili kýlmak, bir þeyi yapmaya hakký/yetkisi olmak, layýk bulmak
+			</tr-def>
+			<examples>
+				<ex>I'm entitled to apply for citizenship.</ex>
+				<ex>These vouchers entitle you to claim a free meal.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>entitle</title>
+			<eng-def>to give something a particular title</eng-def>
+			<tr-def>baþlýk koymak, isimlendirmek</tr-def>
+			<examples>
+				<ex>a lecture entitled "Language, Learning and Literacy"</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>trace</name>
+		<star>false</star>
+		<div>
+			<title>trace</title>
+			<eng-def>to find someone or something that was lost</eng-def>
+			<tr-def>izini bulmak, ortaya çýkarmak</tr-def>
+			<examples>
+				<ex>Police have so far failed to trace the missing woman.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>trace</title>
+			<eng-def>to find the origin of something</eng-def>
+			<tr-def>kökenini/aslýný bulmak</tr-def>
+			<examples>
+				<ex>She's traced her family back to the sixteenth century.</ex>
+				<ex>
+					They were able to trace the call (= find out the number of the telephone used).
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>trace</title>
+			<eng-def>to describe the way something has developed over time</eng-def>
+			<tr-def>izini sürmek; izini sürerek bir þeyin geliþimini anlatmak</tr-def>
+			<examples>
+				<ex>
+					The book traces the development of women's art since the start of the century.
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>trace</title>
+			<eng-def>
+				to copy a picture by putting transparent paper on top and following the outer line of the picture with a pen
+			</eng-def>
+			<tr-def>kopyasýný çýkarmak</tr-def>
+			<examples>
+				<ex>tracing paper</ex>
+			</examples>
+		</div>
+		<div>
+			<title>trace</title>
+			<eng-def>proof that someone or something was in a place</eng-def>
+			<tr-def>iz, iþaret, belirti, kalýntý, emare, eser</tr-def>
+			<examples>
+				<ex>There was no trace of her anywhere.</ex>
+				<ex>Ships have disappeared without trace (= completely).</ex>
+			</examples>
+		</div>
+		<div>
+			<title>trace</title>
+			<eng-def>a small amount of something</eng-def>
+			<tr-def>zerre, azýcýk miktar</tr-def>
+			<examples>
+				<ex>They found traces of blood on his clothing.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>fond</name>
+		<star>false</star>
+		<div>
+			<title>be fond of sb/sth</title>
+			<eng-def>to like someone or something</eng-def>
+			<tr-def>sevmek, düþkün olmak; müptelasý olmak</tr-def>
+			<examples>
+				<ex>to be fond of animals/music</ex>
+				<ex>He's not very fond of dancing.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>fond</title>
+			<eng-def>expressing or causing happy feelings</eng-def>
+			<tr-def>hoþ, güzel, hoþa giden, mutlu eden</tr-def>
+			<examples>
+				<ex>fond memories</ex>
+			</examples>
+		</div>
+		<div>
+			<title>a fond hope/belief, etc</title>
+			<eng-def>something that you wish were true, but probably is not</eng-def>
+			<tr-def>muhtemelen gerçek olmayan ancak olmasý arzu edilen ümit/inanç</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>depress</name>
+		<star>false</star>
+		<div>
+			<title>depress</title>
+			<eng-def>to make someone feel very unhappy, especially about the future</eng-def>
+			<tr-def>mutsuz etmek, canýný sýkmak, keyfini/tadýný kaçýrmak</tr-def>
+			<examples>
+				<ex>This place really depresses me.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>depress</title>
+			<eng-def>
+				to reduce the value or level of something, especially in business
+			</eng-def>
+			<tr-def>azaltmak, düþürmek, rekabetle zayýflatmak (iþ hayatý)</tr-def>
+			<examples>
+				<ex>Competition between stores has depressed prices.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>reassure</name>
+		<star>false</star>
+		<div>
+			<title>reassure</title>
+			<eng-def>to say something to stop someone from worrying</eng-def>
+			<tr-def>içini rahatlatmak, güvenini pekiþtirmek</tr-def>
+			<examples>
+				<ex>He reassured me that I would be paid soon.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>internal</name>
+		<star>false</star>
+		<div>
+			<title>internal</title>
+			<eng-def>
+				happening or coming from inside a particular country, group, or organization
+			</eng-def>
+			<tr-def>iç, dâhilî</tr-def>
+			<examples>
+				<ex>an internal report</ex>
+				<ex>internal disputes</ex>
+			</examples>
+		</div>
+		<div>
+			<title>internal</title>
+			<eng-def>inside your body</eng-def>
+			<tr-def>(beden) iç, içe ait</tr-def>
+			<examples>
+				<ex>internal injuries</ex>
+			</examples>
+		</div>
+		<div>
+			<title>internal</title>
+			<eng-def>inside a country, building, area, etc</eng-def>
+			<tr-def>iç, dâhilî</tr-def>
+			<examples>
+				<ex>an internal flight</ex>
+				<ex>internal walls</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>incident</name>
+		<star>false</star>
+		<div>
+			<title>incident</title>
+			<eng-def>an event, especially one that is bad or unusual</eng-def>
+			<tr-def>olay, vaka, hadise, vukuat</tr-def>
+			<examples>
+				<ex>Police are investigating the incident.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>imprison</name>
+		<star>false</star>
+		<div>
+			<title>imprison</title>
+			<eng-def>to put someone in prison or keep them as a prisoner</eng-def>
+			<tr-def>hapsetmek, hapse atmak</tr-def>
+			<examples>
+				<ex>He was imprisoned for burglary two years ago.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>charge</name>
+		<star>false</star>
+		<div>
+			<title>charge</title>
+			<eng-def>
+				the amount of money that you have to pay for something, especially for an activity or a service
+			</eng-def>
+			<tr-def>ücret, fiyat, tutar</tr-def>
+			<examples>
+				<ex>bank charges</ex>
+				<ex>There's no charge for children under 14.</ex>
+				<ex>
+					He repaired the computer free of charge (= it did not cost anything).
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>be in charge</title>
+			<eng-def>
+				to be the person who has control of or is responsible for someone or something
+			</eng-def>
+			<tr-def>sorumlu olmak, mesul/yetkili olmak</tr-def>
+			<examples>
+				<ex>She's in charge of a team of 20 people.</ex>
+				<ex>Who's in charge of organizing the music for the party?</ex>
+			</examples>
+		</div>
+		<div>
+			<title>take charge</title>
+			<eng-def>to take control of or make yourself responsible for something</eng-def>
+			<tr-def>kontrolünü üslenmek, sorumluluðu yüklenmek</tr-def>
+			<examples>
+				<ex>I was happy to let her take charge of paying all the bills.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>
+				a formal police statement saying that someone is accused of a crime
+			</eng-def>
+			<tr-def>resmi polis ithamý, suçlama tutanaðý, belgesi</tr-def>
+			<examples>
+				<ex>to bring/press charges</ex>
+				<ex>She was arrested on charges of theft and forgery.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>a statement that accuses someone of something</eng-def>
+			<tr-def>suçlama, itham</tr-def>
+			<examples>
+				<ex>This is a serious charge to make against your colleagues.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>an attack in which people or animals run forward suddenly</eng-def>
+			<tr-def>saldýrý, hücum, atýlma</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>reverse the charges</title>
+			<eng-def>
+				to make a telephone call that is paid for by the person who receives it
+			</eng-def>
+			<tr-def>ödemeli arama</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>
+				to ask someone to pay an amount of money for something, especially for an activity or a service
+			</eng-def>
+			<tr-def>ücretlendirmek, fiyat istemek, ücret talep etmek</tr-def>
+			<examples>
+				<ex>
+					They are going to charge motorists a tax to drive into the city centre.
+				</ex>
+				<ex>How much do you charge for delivery?</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>
+				If the police charge someone, they accuse them officially of a crime.
+			</eng-def>
+			<tr-def>suçlamak, itham etmek, suçlu bulmak</tr-def>
+			<examples>
+				<ex>He was charged with assault.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>to attack someone or something by moving forward quickly</eng-def>
+			<tr-def>saldýrmak, hücum etmek, atýlmak</tr-def>
+			<examples>
+				<ex>The bull looked as if it was about to charge.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge around/into/through, etc</title>
+			<eng-def>to run from one place to another</eng-def>
+			<tr-def>oradan oraya koþuþturmak, saða sola koþmak</tr-def>
+			<examples>
+				<ex>The children charged around the house.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>charge</title>
+			<eng-def>to put electricity into something</eng-def>
+			<tr-def>þarj etmek</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>reluctant</name>
+		<star>false</star>
+		<div>
+			<title>reluctant</title>
+			<eng-def>not wanting to do something</eng-def>
+			<tr-def>isteksiz, gönülsüz, kerhen</tr-def>
+			<examples>
+				<ex>Many victims of crime are reluctant to go to the police.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>engage</name>
+		<star>false</star>
+		<div>
+			<title>engage</title>
+			<eng-def>to interest someone in something and keep them thinking about it</eng-def>
+			<tr-def>ilgilendirmek, meþgul etmek, dikkatini çekmek</tr-def>
+			<examples>
+				<ex>The debate about food safety has engaged the whole nation.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>engage</title>
+			<eng-def>to employ someone</eng-def>
+			<tr-def>iþ vermek, iþe almak</tr-def>
+			<examples>
+				<ex>I have engaged a secretary to deal with all my paperwork.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>campaign</name>
+		<star>false</star>
+		<div>
+			<title>campaign</title>
+			<eng-def>
+				a series of organized activities or events intended to achieve a result
+			</eng-def>
+			<tr-def>kampanya, düzenlenen bir dizi faaliyetler bütünü</tr-def>
+			<examples>
+				<ex>an advertising/election campaign</ex>
+			</examples>
+		</div>
+		<div>
+			<title>campaign</title>
+			<eng-def>a series of military attacks</eng-def>
+			<tr-def>bir dizi askeri saldýrý</tr-def>
+			<examples>
+				<ex>a bombing campaign</ex>
+			</examples>
+		</div>
+		<div>
+			<title>campaign</title>
+			<eng-def>to organize a series of activities to try to achieve something</eng-def>
+			<tr-def>kampanya düzenlemek</tr-def>
+			<examples>
+				<ex>to campaign against/for something</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>exceed</name>
+		<star>false</star>
+		<div>
+			<title>exceed</title>
+			<eng-def>to be more than a particular number or amount</eng-def>
+			<tr-def>geçmek, aþmak, ihlal etmek</tr-def>
+			<examples>
+				<ex>Sales have exceeded $1 million so far this year.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>exceed the speed limit</title>
+			<eng-def>to drive faster than you are allowed to according to the law</eng-def>
+			<tr-def>hýz sýnýrýný ihlal etmek/aþmak</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>messenger</name>
+		<star>false</star>
+		<div>
+			<title>messenger</title>
+			<eng-def>someone who takes a message between two people</eng-def>
+			<tr-def>haberci, kurye, ulak</tr-def>
+			<examples/>
+		</div>
+	</word>
+	<word>
+		<name>scale</name>
+		<star>false</star>
+		<div>
+			<title>scale</title>
+			<eng-def>the size or level of something</eng-def>
+			<tr-def>boyut, ölçüt, derece, kapsam, çap</tr-def>
+			<examples>
+				<ex>We don't yet know the scale of the problem.</ex>
+				<ex>
+					Nuclear weapons cause destruction on a massive scale (= cause a lot of destruction).
+				</ex>
+			</examples>
+		</div>
+		<div>
+			<title>large-/small-scale</title>
+			<eng-def>A large-/small-scale event or activity is large/small in size.</eng-def>
+			<tr-def>büyük-/küçük- ölçekte/çapta/ölçüde/çapta</tr-def>
+			<examples>
+				<ex>a large-scale investigation</ex>
+			</examples>
+		</div>
+		<div>
+			<title>scale</title>
+			<eng-def>
+				the set of numbers, amounts, etc used to measure or compare the level of something
+			</eng-def>
+			<tr-def>derece, ölçü, ölçek, cetvel</tr-def>
+			<examples>
+				<ex>How would you rate her work on a scale of 1-10?</ex>
+			</examples>
+		</div>
+		<div>
+			<title>scale</title>
+			<eng-def>a piece of equipment for measuring weight</eng-def>
+			<tr-def>tartý, terazi</tr-def>
+			<examples>
+				<ex>a bathroom/kitchen scale</ex>
+			</examples>
+		</div>
+		<div>
+			<title>scale</title>
+			<eng-def>
+				how the size of things on a map, model, etc relates to the same things in real life
+			</eng-def>
+			<tr-def>ölçü, mikyas</tr-def>
+			<examples>
+				<ex>a map with a scale of one centimetre per ten kilometres</ex>
+			</examples>
+		</div>
+		<div>
+			<title>scale</title>
+			<eng-def>
+				a series of musical notes that is always played in order and that rises gradually from the first note
+			</eng-def>
+			<tr-def>gam</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>scale</title>
+			<eng-def>
+				one of the flat pieces of hard material that covers the skin of fish and snakes
+			</eng-def>
+			<tr-def>(balýk, yýlan) pul, kabuk</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>scale</title>
+			<eng-def>to climb something that is high or steep</eng-def>
+			<tr-def>týrmanmak</tr-def>
+			<examples>
+				<ex>to scale a wall</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>despair</name>
+		<star>false</star>
+		<div>
+			<title>despair</title>
+			<eng-def>a feeling of having no hope</eng-def>
+			<tr-def>umutsuzluk, çaresizlik</tr-def>
+			<examples>
+				<ex>She shook her head in despair.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>despair</title>
+			<eng-def>to feel that you have no hope</eng-def>
+			<tr-def>umutsuzluða/çaresizliðe düþmek</tr-def>
+			<examples>
+				<ex>Don't despair - things will improve.</ex>
+				<ex>He had begun to despair of ever finding a job.</ex>
+			</examples>
+		</div>
+	</word>
+	<word>
+		<name>crack</name>
+		<star>false</star>
+		<div>
+			<title>crack</title>
+			<eng-def>
+				to break something so that it does not separate, but very thin lines appear on its surface, or to become broken in this way
+			</eng-def>
+			<tr-def>çatla(t)mak, yar(ýl)mak</tr-def>
+			<examples>
+				<ex>Linda cracked her tooth when she fell.</ex>
+				<ex>The concrete had started to crack.</ex>
+				<ex>cracked dishes</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>to open an egg or nut by breaking its shell</eng-def>
+			<tr-def>kabuðunu kýrmak</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>to hit a part of your body against something hard, by accident</eng-def>
+			<tr-def>kazara vurmak, çarpmak</tr-def>
+			<examples>
+				<ex>He cracked his head on the shelf.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>to solve a difficult problem</eng-def>
+			<tr-def>zor bir problemi çözmek</tr-def>
+			<examples>
+				<ex>It took three months to crack the enemy's code.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>get cracking</title>
+			<eng-def>to start doing something quickly</eng-def>
+			<tr-def>bir þeyi yapmaya süratle baþlamak</tr-def>
+			<examples>
+				<ex>Let's get cracking! We've only got two days to finish.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>
+				to lose control of your emotions and be unable to deal with a situation
+			</eng-def>
+			<tr-def>sinir krizi geçirmek, kendinden geçmek, kontrolü kaybetmek</tr-def>
+			<examples>
+				<ex>He finally cracked after years of stress.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>
+				to make a sudden, short noise, or to make something make this noise
+			</eng-def>
+			<tr-def>þýrak' diye ses çýkar(t)mak, þaklamak, þaklatmak</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>crack a joke</title>
+			<eng-def>to tell a joke</eng-def>
+			<tr-def>fýkra anlatmak/patlatmak/söylemek</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>a line on the surface of something that is damaged</eng-def>
+			<tr-def>çatlak</tr-def>
+			<examples>
+				<ex>Several cups had cracks in them.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>
+				a narrow space between two parts of something or between two things
+			</eng-def>
+			<tr-def>yarýk, aralýk, açýklýk</tr-def>
+			<examples>
+				<ex>I could see sunlight through a crack in the curtains.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>an illegal drug that is very harmful</eng-def>
+			<tr-def>esrar, uyuþturucu</tr-def>
+			<examples/>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>a sudden, short noise</eng-def>
+			<tr-def>darbe, vuruþ</tr-def>
+			<examples>
+				<ex>a crack of thunder</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>an unkind joke or remark</eng-def>
+			<tr-def>nazik olmayan, nükte, fýkra, ifade, söz</tr-def>
+			<examples>
+				<ex>He was always making cracks about my weight.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>have/take a crack at sth</title>
+			<eng-def>to try to do something</eng-def>
+			<tr-def>giriþimde bulunmak, yeltenmek, denemek</tr-def>
+			<examples>
+				<ex>I've never put up shelves before, but I'll have a crack at it.</ex>
+			</examples>
+		</div>
+		<div>
+			<title>crack</title>
+			<eng-def>of the highest quality</eng-def>
+			<tr-def>kaliteli, birinci sýnýf, üstün özellikli</tr-def>
+			<examples>
+				<ex>a crack regiment</ex>
+			</examples>
+		</div>
+	</word>
+</main>
