@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a333f888-4e5b-4672-822a-7db23fafce0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/desktop">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WordListApp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WordListApp" type="f1a62948:ProjectNode" />
+                <item name="desktop" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WordListApp" type="f1a62948:ProjectNode" />
+                <item name="desktop" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WordListApp" type="f1a62948:ProjectNode" />
+                <item name="desktop" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WordListApp" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mSjUHBz9jMaJ6LJWZ66PyaYxRR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deneme" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets\icons" />
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets" />
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets\fonts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.serhatmerak.wordlist.huds.wordcardhuds" />
+      <recent name="com.serhatmerak.wordlist.helpers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets\worddata" />
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets\icons" />
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets" />
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\assets\lists" />
+      <recent name="C:\Users\merak\Desktop\WordListApp\core\src\com\serhatmerak\wordlist\kumar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.WordListApp:desktop [dist]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desktop" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.serhatmerak.wordlist.desktop.DesktopLauncher" />
+      <module name="desktop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core/assets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kumar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.serhatmerak.wordlist.kumar.Kumar" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.serhatmerak.wordlist.kumar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordListApp:desktop [dist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/desktop" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dist" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="WordListApp:desktop [javaPackager]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/desktop" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="javaPackager" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.WordListApp:desktop [dist]" />
+        <item itemvalue="Gradle.WordListApp:desktop [javaPackager]" />
+        <item itemvalue="Application.Kumar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a333f888-4e5b-4672-822a-7db23fafce0c" name="Default Changelist" comment="" />
+      <created>1609493899841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609493899841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Inspections" timestamp="1615029978508">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1615029978508" />
+    <state x="361" y="91" key="#Project_Structure" timestamp="1615581477899">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1615581477899" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617742112141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1617742112141" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1616322642816">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1616322642816" />
+    <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609494486226">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1609494486226" />
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1616668303565">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.864@0.0.1536.864" timestamp="1616668303565" />
+    <state x="624" y="198" key="AndroidProcessChooserDialog" timestamp="1609589948517">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="624" y="198" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1609589948517" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1617470527344">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1617470527344" />
+    <state width="306" height="734" key="GridCell.Tab.0.bottom" timestamp="1618065917799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="306" height="734" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618065917799" />
+    <state width="306" height="734" key="GridCell.Tab.0.center" timestamp="1618065917798">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="306" height="734" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618065917798" />
+    <state width="306" height="734" key="GridCell.Tab.0.left" timestamp="1618065917798">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="306" height="734" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618065917798" />
+    <state width="306" height="734" key="GridCell.Tab.0.right" timestamp="1618065917799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="306" height="734" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618065917799" />
+    <state width="1491" height="279" key="GridCell.Tab.1.bottom" timestamp="1617221291190">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="279" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1617221291190" />
+    <state width="1491" height="279" key="GridCell.Tab.1.center" timestamp="1617221291190">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="279" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1617221291190" />
+    <state width="1491" height="279" key="GridCell.Tab.1.left" timestamp="1617221291190">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="279" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1617221291190" />
+    <state width="1491" height="279" key="GridCell.Tab.1.right" timestamp="1617221291190">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="279" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1617221291190" />
+    <state x="93" y="93" width="582" height="678" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1612714209685">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="582" height="678" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.864@0.0.1536.864" timestamp="1612714209685" />
+    <state x="397" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1618048490982">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="397" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1618048490982" />
+    <state x="477" y="18" width="871" height="804" key="find.popup" timestamp="1616916966292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="18" width="871" height="804" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1616916966292" />
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup" timestamp="1611337852176">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="410" y="158" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1611337852176" />
+    <state x="475" y="61" key="refactoring.ChangeSignatureDialog" timestamp="1615924455981">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="475" y="61" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1615924455981" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1616077276815">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1616077276815" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1618054294452">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1618054294452" />
+  </component>
+</project>
