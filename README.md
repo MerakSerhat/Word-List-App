@@ -10,7 +10,7 @@ After you have entered the text or file to the application, it takes the words t
 - This application is based on [libGDX](https://libgdx.com/ "libGDX")  framework with java.
 - [Jsoup](https://jsoup.org/) library used for getting information from web pages.
 - [JNativeHook](https://github.com/kwhat/jnativehook "JNativeHook") library used for detecting some keyboard activities while this application is not focused (For beta 'Watching Mode')
-- Also, ** java sockets ** were used for the same beta feature to connect this application with a mobile one.
+- Also, **java sockets** were used for the same beta feature to connect this application with a mobile one.
 
 #### beta features
 
@@ -19,7 +19,7 @@ After you have entered the text or file to the application, it takes the words t
 
 2. With 'Watching Mode', if you open a mobile application and connect your phone and desktop to the same wifi, after a few instructions, on your mobile phone, you can see the live English subtitles of a youtube video that you are currently watching from your desktop. When you stop the video from your desktop, subtitle flow from your mobile phone also stops.
 The point of this feature is when you click on a word from your phone, immediately you can see the definitions and example sentences of that word. So, you can learn a new word while you are watching an English video on youtube without having to stop the video.
-[JNativeHook](https://github.com/kwhat/jnativehook "JNativeHook") library used for detecting some keyboard actions while you are watching to video. 
+- [JNativeHook](https://github.com/kwhat/jnativehook "JNativeHook") library used for detecting some keyboard actions while you are watching to video. 
 (For example, while you are watching a video from youtube when you press to space, the application detects it thanks to this library and sends a signal to the mobile application to stop the flow of subtitles. )
 
 
