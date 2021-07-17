@@ -15,7 +15,7 @@ After you have entered the text or file to the application, it takes the words t
 #### beta features
 
 1.  With 'Reader Mode',   you can immediately see the definition and example sentences when you copy a word to the clipboard.
-	**Suggestion**: if you split your screen into two parts: 80% for the e-book, %20 for Word List App, you can easily read an English book and when you encounter an unknown word you can copy that word and see the definition within the seconds. (There is a button in the Reader Mode screen to resize the application automatically)
+- **Suggestion**: if you split your screen into two parts: 80% for the e-book, %20 for Word List App, you can easily read an English book and when you encounter an unknown word you can copy that word and see the definition within the seconds. (There is a button in the Reader Mode screen to resize the application automatically)
 
 2. With 'Watching Mode', if you open a mobile application and connect your phone and desktop to the same wifi, after a few instructions, on your mobile phone, you can see the live English subtitles of a youtube video that you are currently watching from your desktop. When you stop the video from your desktop, subtitle flow from your mobile phone also stops.
 The point of this feature is when you click on a word from your phone, immediately you can see the definitions and example sentences of that word. So, you can learn a new word while you are watching an English video on youtube without having to stop the video.
