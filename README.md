@@ -1,11 +1,11 @@
-##Word List App
+## Word List App
 
 - With this application, you can create a word list with the **words that you do not know** separated from a text or a file(even a complete e-book file). 
 After you have entered the text or file to the application, it takes the words that you do not know and gets the definitions and example sentences from [Cambridge Dictionary](https://dictionary.cambridge.org/tr/ "Cambridge Dictionary") and creates a Word List.
 - You can use **Word Tests** and **Study Cards** to learn these words. Once you learned a word, sign it as a known word so that you will not see that word again when you create a new Word List.
 - Also if you want to see a little more about a word, you can find the **synonyms**, **antonyms** and plenty of **example sentences** with only one click.
 
-##Development
+## Development
 
 This application is based on [libGDX](https://libgdx.com/ "libGDX")  framework with java.
 [Jsoup](https://jsoup.org/) library used for getting information from web pages.
