@@ -7,10 +7,10 @@ After you have entered the text or file to the application, it takes the words t
 
 ## Development
 
-This application is based on [libGDX](https://libgdx.com/ "libGDX")  framework with java.
-[Jsoup](https://jsoup.org/) library used for getting information from web pages.
-[JNativeHook](https://github.com/kwhat/jnativehook "JNativeHook") library used for detecting some keyboard activities while this application is not focused (For beta 'Watching Mode')
-Also, ** java sockets** were used for the same beta feature to connect this application with a mobile one.
+- This application is based on [libGDX](https://libgdx.com/ "libGDX")  framework with java.
+- [Jsoup](https://jsoup.org/) library used for getting information from web pages.
+- [JNativeHook](https://github.com/kwhat/jnativehook "JNativeHook") library used for detecting some keyboard activities while this application is not focused (For beta 'Watching Mode')
+- Also, ** java sockets ** were used for the same beta feature to connect this application with a mobile one.
 
 #### beta features
 
