@@ -4,6 +4,7 @@
 After you have entered the text or file to the application, it takes the words that you do not know and gets the definitions and example sentences from [Cambridge Dictionary](https://dictionary.cambridge.org/tr/ "Cambridge Dictionary") and creates a Word List.
 - You can use **Word Tests** and **Study Cards** to learn these words. Once you learned a word, sign it as a known word so that you will not see that word again when you create a new Word List.
 - Also if you want to see a little more about a word, you can find the **synonyms**, **antonyms** and plenty of **example sentences** with only one click.
+- You can test this application by downloading [this jar file](https://github.com/MerakSerhat/Word-List-App/raw/main/desktop/build/libs/desktop-1.0.jar) or opening "desktop-1.0.jar" inside of desktop/build/libs
 
 ## Development
 
